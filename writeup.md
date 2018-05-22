@@ -18,6 +18,11 @@ The goals / steps of this project are the following:
 [image1]: ./output_images/hog_features.png
 [image2]: ./output_images/featues_normalization.png
 [image3]: ./output_images/heatmap.png
+[image4]: ./output_images/heatmap1.png
+[image5]: ./output_images/heatmap2.png
+[image6]: ./output_images/heatmap3.png
+[image7]: ./output_images/heatmap4.png
+[image8]: ./output_images/heatmap5.png
 [video1]: ./output_videos/project_video.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
@@ -90,6 +95,17 @@ The following classifier has been selected:
 Here are some example images:
 
 ![alt text][image3]
+
+![alt text][image4]
+
+![alt text][image5]
+
+![alt text][image6]
+
+![alt text][image7]
+
+![alt text][image8]
+
 ---
 
 ### Video Implementation
